@@ -27,3 +27,12 @@ pnpm create next-app --example with-redux with-redux-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+------------------------- Project Details ---------------------------
+
+1. In this project I used MUI library.
+2. Create loging page and store login user data in cookies.
+3. Used Redux toolkit for state management and api calling.
+4. For Kanban Board i used @dnd-kit package.
+5. Used pusher for see Real time change Kanban Board as per changes.
+6. In this project i mostly foucus on functionality not on designing part becuase some time limitation.
