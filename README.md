@@ -36,3 +36,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 4. For Kanban Board i used @dnd-kit package.
 5. Used pusher for see Real time change Kanban Board as per changes.
 6. In this project i mostly foucus on functionality not on designing part becuase some time limitation.
+7. If you see my designing work so please let me know I will share my work.
